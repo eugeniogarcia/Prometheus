@@ -1,0 +1,5 @@
+groups:
+- name: ejemplo
+  rules:
+  - record: miServicio:duracion:promedioPor2m
+    expr: avg(rate(duracion_en_segundos{status="404"}[2m])) by (job, service)

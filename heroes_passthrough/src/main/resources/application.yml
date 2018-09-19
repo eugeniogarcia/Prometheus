@@ -1,0 +1,39 @@
+spring:
+  application:
+    name: heroes_passthrough
+    
+server:
+  port: 8085
+  servlet:
+    session:
+      cookie:
+        domain: .localhost:8085
+        http-only: true
+        path: /
+        
+# we don't want to pollute the log with information not related to our test
+logging:
+  level:
+    root: ERROR
+    com.swisscom.oce.mise.rest: INFO
+
+oce:
+  mise:
+    rest:
+      connect-timeout: 20000
+      read-timeout: 20000
+      
+      
+management:
+  metrics:
+    export:
+      prometheus:
+        pushgateway:
+          job: test-job
+          push-rate: 30000ms
+          push-on-shutdown: false
+
+metadata:
+  entorno: pruebas
+  instancia: 0
+  equipo: test

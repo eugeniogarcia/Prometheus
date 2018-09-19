@@ -1,0 +1,10 @@
+groups:
+- name: misAlertas
+  rules:
+  - alert: duracion
+    expr: avg(duracion_en_segundos)/1000 > 1
+    for: 2m
+    labels:
+      severity: page
+    annotations:
+      summary: Duracion media
