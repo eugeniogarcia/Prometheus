@@ -67,7 +67,7 @@
   "gnetId": 4701,
   "graphTooltip": 1,
   "id": null,
-  "iteration": 1538034433166,
+  "iteration": 1539266723070,
   "links": [],
   "panels": [
     {
@@ -449,7 +449,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 4
+        "y": 16
       },
       "id": 109,
       "panels": [],
@@ -478,7 +478,7 @@
         "h": 7,
         "w": 6,
         "x": 0,
-        "y": 5
+        "y": 17
       },
       "id": 24,
       "legend": {
@@ -597,7 +597,7 @@
         "h": 7,
         "w": 6,
         "x": 6,
-        "y": 5
+        "y": 17
       },
       "id": 25,
       "legend": {
@@ -717,7 +717,7 @@
         "h": 7,
         "w": 6,
         "x": 12,
-        "y": 5
+        "y": 17
       },
       "id": 26,
       "legend": {
@@ -887,7 +887,7 @@
         "h": 7,
         "w": 6,
         "x": 18,
-        "y": 5
+        "y": 17
       },
       "id": 86,
       "legend": {
@@ -976,7 +976,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 12
+        "y": 84
       },
       "id": 110,
       "panels": [],
@@ -1005,7 +1005,7 @@
         "h": 7,
         "w": 6,
         "x": 0,
-        "y": 13
+        "y": 85
       },
       "id": 106,
       "legend": {
@@ -1126,7 +1126,7 @@
         "h": 7,
         "w": 6,
         "x": 6,
-        "y": 13
+        "y": 85
       },
       "id": 93,
       "legend": {
@@ -1243,7 +1243,7 @@
         "h": 7,
         "w": 6,
         "x": 12,
-        "y": 13
+        "y": 85
       },
       "id": 32,
       "legend": {
@@ -1373,7 +1373,7 @@
         "h": 7,
         "w": 6,
         "x": 18,
-        "y": 13
+        "y": 85
       },
       "id": 61,
       "legend": {
@@ -1506,7 +1506,7 @@
         "h": 7,
         "w": 24,
         "x": 0,
-        "y": 20
+        "y": 92
       },
       "height": "",
       "id": 91,
@@ -1611,7 +1611,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 27
+        "y": 316
       },
       "id": 111,
       "panels": [],
@@ -1640,7 +1640,7 @@
         "h": 7,
         "w": 24,
         "x": 0,
-        "y": 28
+        "y": 317
       },
       "id": 3,
       "legend": {
@@ -1756,7 +1756,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 35
+        "y": 947
       },
       "id": 112,
       "panels": [],
@@ -1785,7 +1785,7 @@
         "h": 7,
         "w": 24,
         "x": 0,
-        "y": 36
+        "y": 948
       },
       "id": 78,
       "legend": {
@@ -1901,7 +1901,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 43
+        "y": 2626
       },
       "id": 113,
       "panels": [],
@@ -1920,7 +1920,7 @@
         "h": 7,
         "w": 8,
         "x": 0,
-        "y": 44
+        "y": 2627
       },
       "id": 98,
       "legend": {
@@ -2013,7 +2013,7 @@
         "h": 7,
         "w": 8,
         "x": 8,
-        "y": 44
+        "y": 2627
       },
       "id": 101,
       "legend": {
@@ -2122,7 +2122,7 @@
         "h": 7,
         "w": 8,
         "x": 16,
-        "y": 44
+        "y": 2627
       },
       "id": 99,
       "legend": {
@@ -2208,7 +2208,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 51
+        "y": 6928
       },
       "id": 114,
       "panels": [],
@@ -2237,7 +2237,7 @@
         "h": 7,
         "w": 12,
         "x": 0,
-        "y": 52
+        "y": 6929
       },
       "id": 37,
       "legend": {
@@ -2340,7 +2340,7 @@
         "h": 7,
         "w": 12,
         "x": 12,
-        "y": 52
+        "y": 6929
       },
       "id": 38,
       "legend": {
@@ -2447,7 +2447,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 59
+        "y": 17640
       },
       "id": 115,
       "panels": [],
@@ -2476,7 +2476,7 @@
         "h": 7,
         "w": 6,
         "x": 0,
-        "y": 60
+        "y": 17641
       },
       "id": 33,
       "legend": {
@@ -2588,7 +2588,7 @@
         "h": 7,
         "w": 6,
         "x": 6,
-        "y": 60
+        "y": 17641
       },
       "id": 83,
       "legend": {
@@ -2692,7 +2692,7 @@
         "h": 7,
         "w": 6,
         "x": 12,
-        "y": 60
+        "y": 17641
       },
       "id": 85,
       "legend": {
@@ -2804,7 +2804,7 @@
         "h": 7,
         "w": 6,
         "x": 18,
-        "y": 60
+        "y": 17641
       },
       "id": 84,
       "legend": {
@@ -2893,7 +2893,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 67
+        "y": 43720
       },
       "id": 116,
       "panels": [],
@@ -2912,7 +2912,7 @@
         "h": 7,
         "w": 24,
         "x": 0,
-        "y": 68
+        "y": 43721
       },
       "id": 107,
       "legend": {
@@ -3020,7 +3020,7 @@
         "h": 10,
         "w": 24,
         "x": 0,
-        "y": 75
+        "y": 43749
       },
       "id": 184,
       "legend": {
@@ -3121,16 +3121,18 @@
   "refresh": false,
   "schemaVersion": 16,
   "style": "dark",
-  "tags": [],
+  "tags": [
+    "MiSe",
+    "Care"
+  ],
   "templating": {
     "list": [
       {
         "allValue": null,
         "current": {
-          "selected": false,
           "tags": [],
-          "text": "ms-oce-soe-ordernotifications",
-          "value": "ms-oce-soe-ordernotifications"
+          "text": "ms-oce-gp-common",
+          "value": "ms-oce-gp-common"
         },
         "hide": 0,
         "includeAll": false,
@@ -3174,7 +3176,7 @@
             "value": "ms-oce-soe-deviceinformation"
           },
           {
-            "selected": true,
+            "selected": false,
             "text": "ms-oce-soe-ordernotifications",
             "value": "ms-oce-soe-ordernotifications"
           },
@@ -3190,8 +3192,8 @@
           },
           {
             "selected": false,
-            "text": "oce-soe-prepaidProductlisting",
-            "value": "oce-soe-prepaidProductlisting"
+            "text": "ms-oce-soe-prepaidProductlisting",
+            "value": "ms-oce-soe-prepaidProductlisting"
           },
           {
             "selected": false,
@@ -3214,12 +3216,12 @@
             "value": "ms-oce-gp-userpreferences"
           },
           {
-            "selected": false,
+            "selected": true,
             "text": "ms-oce-gp-common",
             "value": "ms-oce-gp-common"
           }
         ],
-        "query": "ms-oce-soe-quickactions,ms-oce-gp-urlencryption,ms-oce-soe-callfilter,ms-oce-soe-contract,ms-oce-soe-puks,ms-oce-soe-priceAndBenefit,ms-oce-soe-deviceinformation,ms-oce-soe-ordernotifications,ms-oce-gp-encryptionservice,ms-oce-soe-serviceconfiguration,oce-soe-prepaidProductlisting,ms-oce-soe-simstatus,ms-oce-soe-userinteractions,ms-oce-soe-combox,ms-oce-gp-userpreferences,ms-oce-gp-common",
+        "query": "ms-oce-soe-quickactions,ms-oce-gp-urlencryption,ms-oce-soe-callfilter,ms-oce-soe-contract,ms-oce-soe-puks,ms-oce-soe-priceAndBenefit,ms-oce-soe-deviceinformation,ms-oce-soe-ordernotifications,ms-oce-gp-encryptionservice,ms-oce-soe-serviceconfiguration,ms-oce-soe-prepaidProductlisting,ms-oce-soe-simstatus,ms-oce-soe-userinteractions,ms-oce-soe-combox,ms-oce-gp-userpreferences,ms-oce-gp-common",
         "type": "custom"
       },
       {
@@ -3345,7 +3347,7 @@
         "useTags": false
       },
       {
-        "allValue": null,
+        "allValue": "",
         "current": {},
         "datasource": "${DS_PROMETHEUS}",
         "hide": 0,
@@ -3356,7 +3358,7 @@
         "options": [],
         "query": "label_values(http_client_requests_seconds_count{exported_job=\"$application\", space=\"$space\",clientName=~\"$rest_client.*\"}, uri)",
         "refresh": 2,
-        "regex": "/(\\/[a-z,A-Z]*)+(\\/v[1,2])?(\\/[a-z,A-Z]*)/",
+        "regex": "/(^(\\/(((v1|v2)|[a-zA-Z]))*){0,}).*/",
         "sort": 1,
         "tagValuesQuery": "",
         "tags": [],
@@ -3367,8 +3369,8 @@
     ]
   },
   "time": {
-    "from": "2018-09-26T12:00:00.000Z",
-    "to": "2018-09-26T13:30:00.000Z"
+    "from": "now/d",
+    "to": "now/d"
   },
   "timepicker": {
     "now": true,
@@ -3399,5 +3401,5 @@
   "timezone": "browser",
   "title": "MiSe [Care]",
   "uid": "26pgqsviz-Care",
-  "version": 66
+  "version": 116
 }
